@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Hind', sans-serif;
+}
+
+.logo img {
+    width: 300px
+}
+
+.message p {
+    text-align: center;
+    margin: 0;
+    font-size: 1rem;
+}
+
+.homepage {
+    margin-top: 10px;
+}
